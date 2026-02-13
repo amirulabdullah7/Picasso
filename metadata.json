@@ -1,0 +1,8 @@
+{
+  "name": "Project Picasso: Rewards Intelligence",
+  "description": "An intelligent credit card optimization ecosystem that uses AI to automate rewards tracking, provide real-time card recommendations, and eliminate cashback leakage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
